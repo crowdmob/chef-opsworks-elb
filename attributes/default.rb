@@ -1,0 +1,1 @@
+default[:aws][:elb][:load_balancer_name] = "set_me_in_opsworks_elb_databag"
