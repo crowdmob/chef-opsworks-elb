@@ -16,6 +16,8 @@ Be sure to specify:
 ```json
 { 
   "aws": {
+    "AWS_ACCESS_KEY_ID": "XXXXXXXXXX",
+    "AWS_SECRET_ACCESS_KEY": "XXXXXXXXXX",
     "elb": { 
       "load_balancer_name": "my-load-balancer-id"
     }
